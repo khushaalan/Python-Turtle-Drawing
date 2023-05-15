@@ -1,2 +1,2 @@
 # Python-Turtle-Drawing
-![Screenshot](ss.png)
+![Screenshot](ss/ss.png)
