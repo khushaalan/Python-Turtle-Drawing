@@ -28,7 +28,7 @@ The variables are used in the Components class to draw the components.
 This is 2d matric representation of the quadrants and sub-quadrants:
 
                     Q2Q2 Q2Q1 # Q1Q2 Q1Q1
-                    Q2Q3 Q1Q4 # Q1Q3 Q1Q4
+                    Q2Q3 Q2Q4 # Q1Q3 Q1Q4
                     #####################
                     Q3Q2 Q3Q1 # Q4Q2 Q4Q1
                     Q3Q3 Q3Q4 # Q4Q3 Q4Q4
